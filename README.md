@@ -20,7 +20,7 @@ Learning and experimenting with Ethical hacking and Palo Alto Firewalls.
 
 🤝 Let's Connect
 
-📫 Portfolio: [Github Pages](Mahammadyusuf30.github.io)
+📫 Portfolio: [Website](Mahammadyusuf30.github.io)
 
 🔗 LinkedIn: [LinkedIn](www.linkedin.com/in/mahammadyusuf)
 
