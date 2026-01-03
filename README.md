@@ -19,7 +19,10 @@ Learning and experimenting with Ethical hacking and Palo Alto Firewalls.
 - **Other Skilla:** Data Analysis, Problem Solving, Team Collaboration
 
 🤝 Let's Connect
-LinkedIn: www.linkedin.com/in/mahammadyusuf
-Portfolio: https://mahammadyusuf30.github.io/
+
+📫 Email: [yourname@email.com](mailto:shaikmahammadyusuf65@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/mahammadyusuf)
+
+
 📫 Contact Me
-Feel free to reach out at shaikmahammadyusuf65@gmail.com  for any collaboration or just to say hi!
+Feel free to reach out at [yourname@email.com](mailto:shaikmahammadyusuf65@gmail.com)   for any collaboration or just to say hi!
