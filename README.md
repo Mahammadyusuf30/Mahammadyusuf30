@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I am Mahammad Yusuf Shaik
 
-<!--
-**Mahammadyusuf30/Mahammadyusuf30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a Network Security Engineer and Cybersecurity Analyst, actively developing my skills through hands-on projects and learning.
 
-Here are some ideas to get you started:
+🌱 What I'm Currently Working On
+- Investigating security alerts and incidents
+- Analyzing logs from SIEM and cloud platforms
+- Building detection rules and security use cases
+- Documenting hands-on labs and real-world attack scenarios
+Developing new projects in Netwrok Integration with NMAP.
+Learning and experimenting with Ethical hacking and Palo Alto Firewalls.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My Skills
+- **SOC & Blue Team:** Alert triage, incident analysis, log investigation
+- **Cloud Security:** Azure / AWS logging, IAM attacks, misconfigurations
+- **SIEM & Detection:** Splunk, Sentinel, ELK, IBM QRadar
+- **Security Automation:** Python, scripting
+- **Platforms:** TryHackMe, Hack The Box, Blue Team Labs
+- **Other Skilla:** Data Analysis, Problem Solving, Team Collaboration
+
+🤝 Let's Connect
+LinkedIn: www.linkedin.com/in/mahammadyusuf
+Portfolio: https://mahammadyusuf30.github.io/
+📫 Contact Me
+Feel free to reach out at shaikmahammadyusuf65@gmail.com  for any collaboration or just to say hi!
