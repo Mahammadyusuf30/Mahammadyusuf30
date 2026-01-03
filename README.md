@@ -20,9 +20,11 @@ Learning and experimenting with Ethical hacking and Palo Alto Firewalls.
 
 🤝 Let's Connect
 
-📫 Portfolio: Mahammadyusuf30.github.io
-🔗 LinkedIn: https://www.linkedin.com/in/mahammadyusuf
+📫 Portfolio: [Github Pages](Mahammadyusuf30.github.io)
+
+🔗 LinkedIn: [LinkedIn](www.linkedin.com/in/mahammadyusuf)
+
 
 
 📫 Contact Me
-Feel free to reach out at shaikmahammadyusuf65@gmail.com for any collaboration or just to say hi!
+Feel free to reach out at [Email](mailto:shaikmahammadyusuf65@gmail.com) for any collaboration or just to say hi!
